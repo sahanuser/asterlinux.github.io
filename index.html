@@ -1,60 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="Aster, Linux, Arch, Easy, Download" />
+    <meta
+      name="description"
+      content="Aster Linux is an arch based distro made to make arch simple and easy "
+    />
     <title>Aster Linux</title>
     <link rel="icon" href="/images/asterlinux-logo.svg" />
-    <style>
-      .banner {
-        background-color: #5b5c5e;
-      }
-      .button {
-        background-color: #000000;
-        border-color: #000000;
-        border-radius: 6px;
-        font-size: xx-large;
-        color: #ffffff;
-        font-style: inherit;
-      }
-      .image {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30%;
-      }
-      img {
-        width: 100px;
-        border-radius: 50%;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
   </head>
 
   <body style="background-color: powderblue">
-    <div>
-      <div class="banner">
-        <img class="image" src="images/asterlinux-logo.svg" />
-        <h1 style="text-align: center">Aster Linux</h1>
+    <div class="banner">
+      <div class="negivation">
+        <img
+          src="images/asterlinux-logo.svg"
+          alt="aster linux logo"
+          class="logo"
+        />
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="release.html">Release</a></li>
+          <li><a href="https://github.com/asterlinux/">Github</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="content">
+          <h1>Aster Linux</h1>
+          <p>
+            Aster Linux an arch based linux Distribution made to make life
+            easier
+          </p>
+          <div>
+            <button
+              type="button"
+              onclick="window.location.href='https://sourceforge.net/projects/aster-linux-iso/files/latest/download'"
+            >
+              <span></span> Download
+            </button>
+            <button
+              type="button"
+              onclick="window.location.href='https://github.com/asterlinux'"
+            >
+              <span></span> More Info
+            </button>
+          </div>
+        </div>
       </div>
     </div>
-
-    <h3 style="color: #202b42">based on arch</h3>
-
-    <button
-      type="button"
-      class="button"
-      onclick="window.location.href='https://sourceforge.net/projects/aster-linux-iso/files/latest/download'"
-    >
-      Download
-    </button>
-    <button
-      type="button"
-      class="button"
-      onclick="window.location.href='https://github.com/asterlinux/'"
-    >
-      Github
-    </button>
-
-    <a href="release.html">release</a>
-
-    <h1>Disclamer this site is in its early ages of development</h1>
   </body>
 </html>
