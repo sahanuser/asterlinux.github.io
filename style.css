@@ -71,6 +71,8 @@
 .content h1 {
     font-size: 70px;
     font-weight: 100;
+    font-family:'Times New Roman', Times, serif;
+
 }
 
 .content p {
@@ -83,12 +85,12 @@
 
 button {
     width: 200px;
-    padding: 15px 0;
+    padding: 10px 0;
     text-align: center;
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 1px solid gray;
+    border: 3px solid lightblue;
     color: #fff;
     cursor: pointer;
     background: transparent;
@@ -98,7 +100,7 @@ button {
 }
 
 span {
-    background: #009688;
+    background: #2498fd;
     height: 100%;
     width: 100%;
     border-radius: 25px;
