@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aster Linux</title>
+    <link>http://asterlinux.github.io/posts/</link>
+    <description>Recent content in Posts on Aster Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jan 2023 23:41:52 +0530</lastBuildDate><atom:link href="http://asterlinux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grubtheme</title>
+      <link>http://asterlinux.github.io/posts/grubtheme/</link>
+      <pubDate>Sat, 28 Jan 2023 23:41:52 +0530</pubDate>
+      
+      <guid>http://asterlinux.github.io/posts/grubtheme/</guid>
+      <description>Aster Linux Grub Theme </description>
+    </item>
+    
+    <item>
+      <title>Aster Linux</title>
+      <link>http://asterlinux.github.io/posts/aster/</link>
+      <pubDate>Sat, 28 Jan 2023 22:45:58 +0530</pubDate>
+      
+      <guid>http://asterlinux.github.io/posts/aster/</guid>
+      <description>Aster Linux is a linux Based Distribution</description>
+    </item>
+    
+  </channel>
+</rss>
