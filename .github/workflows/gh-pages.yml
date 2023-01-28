@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main  # Set a branch that will trigger a deployment
+      - master  # Set a branch that will trigger a deployment
   pull_request:
 
 jobs:
