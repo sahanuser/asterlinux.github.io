@@ -14,5 +14,5 @@ menu:
        - [Email](mailto:sahan.user@gmail.com)
        - [Twitter](https://twitter.com/sahan_user)
 
-*Aster Linux Made In Srilanka*
+*Made In Srilanka*
 
