@@ -7,16 +7,17 @@ theme = 'ananke'
 enableRobotsTXT = true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekely"
   priority = 0.5
   filename = "sitemap.xml"
+
 
 [params]
   site_logo = "img/asterlinux.svg"
   favicon = "img/asterlinux.svg"
-  disqusShortname = "asterlinux-github-io"
   background_color_class = "bg-mid-gray"
   body_classes = "bg-silver"
+  DisqusShortname = "asterlinux-github-io"
   text_color = "black"
   description = "Arch Linux Based Distribution"
   author = "Sahan Rasanjana"
@@ -28,4 +29,5 @@ url = "https://twitter.com/sahan_user"
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/asterlinux"
+
 
