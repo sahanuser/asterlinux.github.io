@@ -2,7 +2,7 @@ baseURL = 'http://asterlinux.github.io/'
 languageCode = 'en-us'
 title = 'Aster Linux'
 SectionPagesMenu = "main"
-Paginate = 30
+Paginate = 12
 theme = 'ananke'
 enableRobotsTXT = true
 
@@ -19,7 +19,6 @@ enableRobotsTXT = true
   body_classes = "bg-silver"
   text_color = "black"
   description = "Arch Linux Based Distribution"
-  recent_posts_number = 1
   author = "Sahan Rasanjana"
 
 
