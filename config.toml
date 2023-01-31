@@ -8,12 +8,12 @@ enableRobotsTXT = true
 
 [sitemap]
   changefreq = "weekely"
-  priority = 0.7
+  priority = 0.8
   filename = "sitemap.xml"
 
 
 [params]
-  site_logo = "img/asterlinux.svg"
+  site_logo = "img/asterlinux-small.png"
   favicon = "img/asterlinux.svg"
   background_color_class = "bg-mid-gray"
   body_classes = "bg-silver"

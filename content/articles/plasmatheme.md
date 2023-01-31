@@ -1,7 +1,8 @@
 ---
 title: "Plasmatheme"
 date: 2023-01-29T08:03:01+05:30
-tags: ["grub","aster"]
+show_reading_time: true
+description: "Aster Linux Kde plasma theme "
 ---
 
   Aster Linux Plasma Theme
