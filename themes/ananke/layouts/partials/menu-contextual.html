@@ -18,7 +18,7 @@
 {{ $related := .Site.RegularPages.Related . | first 15 }}
 
 {{ with $related }}
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <div class="bg-silver pa3 nested-list-reset nested-copy-line-height nested-links">
     <p class="f5 b mb3">{{ i18n "related" }}</p>
     <ul class="pa0 list">
 	   {{ range . }}
