@@ -14,7 +14,7 @@ featured_image: '/img/bg.jpg'
 [![Download Aster-Linux-iso](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/aster-linux-iso/files/latest/download)
    * Check the file you Downloaded with Sha512
 
-   * [Download](https://sourceforge.net/projects/aster-linux-iso/files/asterlinux-2023.03.03-x86_64.iso.sha512/download) the checksum and run 
+   * [Download](https://raw.githubusercontent.com/asterlinux/asterlinux.github.io/master/asterlinux-2023.03.03-x86_64.iso.sha512) the checksum and run 
 
     sha512sum asterlinux-2023.03.03-x86_64.iso -c asterlinux-2023.03.03-x86_64.iso.sha512
 
